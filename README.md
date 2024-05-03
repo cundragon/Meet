@@ -67,8 +67,7 @@ The inspection procedures include inspection meeting schedule, meeting format, r
 ## Credits
 This project is based on the work of Group 6: Bilal Suleman, Darshan Shet, Karol Cieslikowski, and Yusra Ahmed, as detailed in the Meet app Project Report from Spring 2023.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 **Important Note:** Remember to add your personal Google API key in the following files:
 - `lib/EventDetails/maps.dart`
