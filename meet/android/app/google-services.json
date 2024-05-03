@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751514024569",
+    "project_id": "meet-cs442",
+    "storage_bucket": "meet-cs442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751514024569:android:d12fd3d9d32adea2a1b2a8",
+        "android_client_info": {
+          "package_name": "com.example.meet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTGNrHErMJTHN3O38RXgIToilOZR_IJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
